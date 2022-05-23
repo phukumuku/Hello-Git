@@ -1,2 +1,2 @@
 # Hello-Git
- kithub
+ kithubにて作成
